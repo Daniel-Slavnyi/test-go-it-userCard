@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/test-go-it-userCard/static/css/main.7acaea2f.css",
+    "main.js": "/test-go-it-userCard/static/js/main.07d3183d.js",
+    "index.html": "/test-go-it-userCard/index.html",
+    "main.7acaea2f.css.map": "/test-go-it-userCard/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/test-go-it-userCard/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
