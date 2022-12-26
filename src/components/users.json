@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "user": "Elon Reeve Musk",
+        "tweets": 777,
+        "followers": 100500,
+        "avatar": "https://iconscout.com/3d/programmer-avatar-5966938"
+    },
+    {
+        "id": 2,
+        "user": "Mercy Pill",
+        "tweets": 456,
+        "followers": 50560,
+        "avatar": "https://iconscout.com/3d/astronaut-avatar-6299532"
+    },
+    {
+        "id": 3,
+        "user": "Blozzom Buzz",
+        "tweets": 257,
+        "followers": 14560,
+        "avatar": "https://iconscout.com/3d/boy-avatar-6299533"
+    },
+    {
+        "id": 4,
+        "user": "Dixie Bloom",
+        "tweets": 243,
+        "followers": 65500,
+        "avatar": "https://iconscout.com/3d/judge-avatar-5966949"
+    },
+    {
+        "id": 5,
+        "user": "Sober Class Zoro",
+        "tweets": 145,
+        "followers": 19850,
+        "avatar": "https://iconscout.com/3d/businessman-avatar-5966937"
+    }
+]
