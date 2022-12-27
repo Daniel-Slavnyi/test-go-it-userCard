@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "/test-go-it-userCard/static/css/main.7acaea2f.css",
-    "main.js": "/test-go-it-userCard/static/js/main.07d3183d.js",
+    "main.css": "/test-go-it-userCard/static/css/main.0077bdc1.css",
+    "main.js": "/test-go-it-userCard/static/js/main.ca245e8d.js",
+    "static/media/Picture.png": "/test-go-it-userCard/static/media/Picture.e84d7be586b313c34d66.png",
+    "static/media/ellipse.svg": "/test-go-it-userCard/static/media/ellipse.0e5cef945ac1039910e379047cee4665.svg",
     "index.html": "/test-go-it-userCard/index.html",
-    "main.7acaea2f.css.map": "/test-go-it-userCard/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/test-go-it-userCard/static/js/main.07d3183d.js.map"
+    "main.0077bdc1.css.map": "/test-go-it-userCard/static/css/main.0077bdc1.css.map",
+    "main.ca245e8d.js.map": "/test-go-it-userCard/static/js/main.ca245e8d.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.0077bdc1.css",
+    "static/js/main.ca245e8d.js"
   ]
 }
